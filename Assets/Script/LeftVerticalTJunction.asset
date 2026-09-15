@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5848846a4e4074c9fa40ee2e718be554, type: 3}
+  m_Name: LeftVerticalTJunction
+  m_EditorClassIdentifier: 
+  Name: Left Vertical T Junction
+  Prefab: {fileID: 919132149155446097, guid: 71a760ea60fc44423a1df60e0c00b051, type: 3}
+  Top:
+    CompatibleNodes:
+    - {fileID: 11400000, guid: b8eff10c8671d4d67a439d4ed5b062e6, type: 2}
+    - {fileID: 11400000, guid: bcee4793e09094ddba44baa610e7e27d, type: 2}
+    - {fileID: 11400000, guid: c612e8f60642849fcbcadb106bde6415, type: 2}
+    - {fileID: 11400000, guid: 0f0fda74a8c464c8abb0163181195368, type: 2}
+    - {fileID: 11400000, guid: bc415db8e3bc3402e916752dd5c447fb, type: 2}
+    - {fileID: 11400000, guid: 4c64470d85149422bb91296b94c3f7ef, type: 2}
+    - {fileID: 11400000}
+  Bottom:
+    CompatibleNodes:
+    - {fileID: 11400000, guid: ead585b7e0deb4e62bb3b24523528d11, type: 2}
+    - {fileID: 11400000, guid: 6bfea6c2a27b14861a5c6d56018fa243, type: 2}
+    - {fileID: 11400000, guid: 4314439e5813947fab1aaea6a321313c, type: 2}
+    - {fileID: 11400000, guid: 0f0fda74a8c464c8abb0163181195368, type: 2}
+    - {fileID: 11400000, guid: bc415db8e3bc3402e916752dd5c447fb, type: 2}
+    - {fileID: 11400000, guid: 4c64470d85149422bb91296b94c3f7ef, type: 2}
+    - {fileID: 11400000}
+  Left:
+    CompatibleNodes:
+    - {fileID: 11400000, guid: b8eff10c8671d4d67a439d4ed5b062e6, type: 2}
+    - {fileID: 11400000, guid: ead585b7e0deb4e62bb3b24523528d11, type: 2}
+    - {fileID: 11400000, guid: c612e8f60642849fcbcadb106bde6415, type: 2}
+    - {fileID: 11400000, guid: 4314439e5813947fab1aaea6a321313c, type: 2}
+    - {fileID: 11400000, guid: 0f0fda74a8c464c8abb0163181195368, type: 2}
+    - {fileID: 11400000, guid: bc415db8e3bc3402e916752dd5c447fb, type: 2}
+    - {fileID: 11400000, guid: d6d449192fa8842768d55fc89654d5a6, type: 2}
+  Right:
+    CompatibleNodes:
+    - {fileID: 11400000, guid: b8eff10c8671d4d67a439d4ed5b062e6, type: 2}
+    - {fileID: 11400000, guid: ead585b7e0deb4e62bb3b24523528d11, type: 2}
+    - {fileID: 11400000, guid: 0f0fda74a8c464c8abb0163181195368, type: 2}
+    - {fileID: 11400000, guid: 0e1199f02341f494b803a1845a3fba8e, type: 2}
+    - {fileID: 11400000, guid: 4c64470d85149422bb91296b94c3f7ef, type: 2}
